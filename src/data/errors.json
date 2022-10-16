@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "message": "---------------------------------------- \nFor this NETBOX is a starter- or connection cable required. \nPlease select it in the area NETLINE!",
+      "facility": "GF::afml",
+      "level": "Notice",
+      "timeStamp": "2019-02-05T20:51:58.357Z"
+    },
+    {
+      "message": "\"CHASSIS\" has not been declared as a property alias in relation \"000000000000004839\" of \"@ahm_ahmpb\".",
+      "facility": "GF::eai:eproduct",
+      "level": "Debug",
+      "timeStamp": "2019-02-05T20:52:05.057Z"
+    },
+    {
+      "message": "\"STROMAUSGANG\" has not been declared as a property alias in relation \"000000000000004839\" of \"@ahm_ahmpb\".",
+      "facility": "GF::eai:eproduct",
+      "level": "Debug",
+      "timeStamp": "2019-02-05T20:52:05.057Z"
+    }
+  ]
+}
